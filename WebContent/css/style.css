@@ -147,6 +147,14 @@ table#report_list .report_date {
     width: 20%;
 }
 
+table#report_list.commuting_name{
+    width:10%;
+}
+
+table#report_list.leave_name{
+    width:1 0%;
+}
+
 table#report_list .report_title {
     width: 37%;
 }
